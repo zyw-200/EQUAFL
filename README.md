@@ -3,7 +3,7 @@
 Our tool is mainly built on top of QEMU.
 The source code we modified as follows.
 
-###Outline
+###  Outline
 
 EQUAFL contains both observation and replay mechanisms.
 The observation mechanism is mainly implemented in the following source file.
@@ -29,7 +29,7 @@ Network: socket, bind, listen, accept, getpeername, getsockname, getsockopt,  po
 
 We have written the comments for the implmentation in these source files.
 
-###Setup
+### Setup
 
 In the top directory,
 
